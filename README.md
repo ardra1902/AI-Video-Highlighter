@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 **Configure Environment Variables**
 
-Edit the .env file in the root directory of the project with the following content:
+Create the .env file in the root directory of the project with the following content:
 ```bash
 DEEPGRAM_API_KEY=your_deepgram_api_key
 ```
