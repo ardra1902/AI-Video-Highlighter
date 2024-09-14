@@ -86,7 +86,6 @@ The output will be an array of objects, each containing:
 
 ## Troubleshooting
 
-**Error with Transcript Fetching:** Ensure that the YouTube video has captions enabled; otherwise, transcripts cannot be retrieved.
 
 **Import Errors:** Verify that all required packages are installed using pip list.
 
