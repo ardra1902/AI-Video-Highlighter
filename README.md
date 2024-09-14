@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 Create the .env file in the root directory of the project with the following content:
 ```bash
-DEEPGRAM_API_KEY="your_deepgram_api_key"
+API_KEY="your_deepgram_api_key"
 ```
 **Run the Streamlit App:**
 
