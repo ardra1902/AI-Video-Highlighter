@@ -29,7 +29,10 @@ Make sure you have the following dependencies installed. You can install them us
 - `streamlit`
 - `requests`
 - `python-dotenv`
-
+- `yt-dlp`               
+- `pydub`
+- `pytube`
+  
 To install the dependencies, use the following command:
 
 ```bash
@@ -91,10 +94,8 @@ The output will be an array of objects, each containing:
 ## Contributions
 
 Contributions are welcome! Please fork the repository and create a pull request with your feature additions or bug fixes.
-## License
 
 
-This project is licensed under the MIT License - see the [License](https://choosealicense.com/licenses/mit/) file for details
 ## Feedback
 
 
