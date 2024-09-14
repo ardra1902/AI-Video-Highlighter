@@ -3,11 +3,15 @@
 
 This Streamlit application allows you to input a YouTube video URL, download the audio from the video, and transcribe the audio using Deepgram's API. The transcription includes highlighted sentences with start times, end times, and confidence scores.
 
+![App Screenshot](https://raw.githubusercontent.com/ardra1902/AI-Video-Highlighter/main/AIVSS.png)
+
 ## Features
 
 - Download audio from a YouTube video URL.
 - Transcribe the audio using Deepgram's API.
 - Display transcribed sentences with start time, end time, and confidence scores.
+
+
 ### Installation
 
 
@@ -97,5 +101,3 @@ This project is licensed under the MIT License - see the [License](https://choos
 If you have any feedback, please reach out to me at ardrakakkarath@gmail.com
 
 Feel free to star ⭐ this repository if you find it helpful!
-
-
